@@ -11,7 +11,6 @@ i am Branch-B
 
  hello folks
 
-  169. Majority Element
-   return max(Counter(nums))
+     return max(Counter(nums))
 
- 
+ hello
